@@ -1,3 +1,6 @@
 [submodule "minetest_schemedit"]
 	path = minetest_schemedit
 	url = https://codeberg.org/Wuzzy/minetest_schemedit
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas

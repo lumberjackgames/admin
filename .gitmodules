@@ -1,0 +1,3 @@
+[submodule "minetest_schemedit"]
+	path = minetest_schemedit
+	url = https://codeberg.org/Wuzzy/minetest_schemedit
